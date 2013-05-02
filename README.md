@@ -1,4 +1,4 @@
-swaiing.github.com
+swaiing.github.io
 ==================
 
 Pages repo
