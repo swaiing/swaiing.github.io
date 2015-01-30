@@ -1,12 +1,12 @@
 # Site settings
 title: Stephen Wai
-email: stevewai@gmail.com
+email: yo@stephenwai.com
 description: > # this means to ignore newlines until "baseurl:"
-    internet, technology, business and behavioral economics
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://stephenwai.com" # the base hostname & protocol for your site
 twitter_username: swaiing
 github_username:  swaiing
+linkedin_url:  stephenwai
 
 # Build settings
 markdown: kramdown

@@ -2,10 +2,11 @@
 layout: page
 title: About
 permalink: /about/
+hero: bg2.jpg
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Stephen is currently a second-year MBA student at [Michigan Ross](https://michiganross.umich.edu/).  He received his undergraduate degree computer science at [Colgate University](http://colgate.edu).  For more on what he did in between, please refer to [LinkedIn](https://www.linkedin.com/in/stephenwai).
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+He grew up outside of Boston and is thus a diehard Boston sports fan.  He also likes coffee, ultimate frisbee and traveling.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+This site is a collection of his thoughts on the internet, tech, startups, business, behavioral economics and other random shiny things of interest.  These thoughts are solely his own.

@@ -7,6 +7,10 @@
 
     {% include header.html %}
 
+    {% if page.hero %}
+    <div class="hero" style="background-image:url(/images/{{ page.hero }})"></div>
+    {% endif %}
+
     <div class="page-content">
       <div class="wrapper">
         {{ content }}
