@@ -16,7 +16,7 @@ Designing an information dense calendar for the screen of a smartphone is challe
 ![Dynamic sizing](/images/hybrid_ratio.jpg)
 
 ## 2) Integration with events APIs
-Sunrise doesn’t expect you to rebuild your life on a new calendar platform.  The creators knew that people most likely already had a primary calendar backend: be it, Exchange, Google Calendar or iCloud.  The creators of Sunrise instead assumed you used one of those three and focused on making the app integrate with every single API under the sun (hah) that could possibly be a source of events: Facebook, Trello, GitHub, Eventbrite, Asana, TripIt and many more.  They continually add support for additional APIs, thereby linearly increasing the utility of the app.
+Sunrise doesn’t expect you to rebuild your life on a new calendar platform.  The creators knew that people most likely already had a primary calendar backend: be it, Exchange, Google Calendar or iCloud.  The creators of Sunrise instead assumed you used one of those three and focused on making the app integrate with every single API under the sun (pun!) that could possibly be a source of events: Facebook, Trello, GitHub, Eventbrite, Asana, TripIt and many more.  They continually add support for additional APIs, thereby linearly increasing the utility of the app.
 
 ![Integration with lots of APIs](/images/integrations.jpg)
 

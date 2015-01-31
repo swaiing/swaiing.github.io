@@ -10,3 +10,5 @@ Stephen is currently a second-year MBA student at [Michigan Ross](https://michig
 He grew up outside of Boston and is thus a diehard Boston sports fan.  He also likes coffee, ultimate frisbee and traveling.
 
 This site is a collection of his thoughts on the internet, tech, startups, business, behavioral economics and other random shiny things of interest.  These thoughts are solely his own.
+
+Site powered by [Jekyll](http://jekyllrb.com/) and hosted on [GitHub Pages](https://github.com/swaiing/swaiing.github.io).
