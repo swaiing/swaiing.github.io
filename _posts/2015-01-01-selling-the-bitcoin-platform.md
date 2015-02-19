@@ -5,6 +5,7 @@ date: '2015-01-01T11:41:12-05:00'
 tags:
 - bitcoin
 tumblr_url: http://stephenwai.com/post/106803956641/selling-the-bitcoin-platform
+hero: bitcoin.jpg
 ---
 After reading peer feedback for my “Why Bitcoin is Important: Digital Currency and the Future” presentation it became apparent that despite my earnest efforts I failed to clearly communicate the benefits of Bitcoin as a platform.  For my management presentations class at Ross I chose to present the topic of Bitcoin for a four minute persuasive presentation.  Since Bitcoin can be somewhat heavy and technical I used one expository slide to educate on the basics, then went directly into an explanation of how it can be used as a platform as [described by Stripe](2015-01-01-selling-the-bitcoin-platform.md) and implemented by [Ripple](https://ripple.com/knowledge-center/understanding-ripple/) and [Stellar](https://www.stellar.org/learn/).  Followed by that was a slide describing the overall benefits of Bitcoin and a conclusion with Alan Kay’s quote, “The best way to predict the future is to invent it.”
 

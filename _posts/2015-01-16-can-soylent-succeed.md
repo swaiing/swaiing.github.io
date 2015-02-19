@@ -6,6 +6,7 @@ tags:
 - startup
 - food
 tumblr_url: http://stephenwai.com/post/108272091541/can-soylent-succeed
+hero: soylent.jpg
 ---
 Ever since I heard about the futuristic food startup Soylent, I’ve been intensely fascinated by them and their mission. Soylent has created an alternative to food that provides all the daily nutrients your body needs. It comes in the form of a powder that mixes with water to create a tasteless slurry-shake-drink at a low cost, currently only $3 per meal. It can be used to varying degrees: some use it 2-3 times a week, while the founder of Soylent, Rob Reinhardt, is on a 90% Soylent diet. At an individual-level, it’s marketed towards people who want to simplify their lives and take the time and decision-making involved with feeding oneself out of the equation. At a macro-level, it’s marketed as a cheap and scalable staple food solution to feed the world’s unsustainably growing population. Damn. It’s a pretty bold proposition create a product that is *generic food* in the purest sense of that term, but to also take the long-view that this product can solve world hunger. Wow. This isn’t your father’s photo-sharing app startup. But despite my fondness of Soylent’s mission and their recent [$20MM Series A led by Andreesen Horowitz](http://techcrunch.com/2015/01/14/soylent-20m/), the company faces a steep uphill battle. Among its many challenges:
 
