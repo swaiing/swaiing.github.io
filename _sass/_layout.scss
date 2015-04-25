@@ -34,6 +34,7 @@
     .page-link {
         color: $text-color;
         line-height: $base-line-height;
+        font-weight: 400;
 
         // Gaps between nav items, but not on the first one
         &:not(:first-child) {
@@ -101,7 +102,6 @@
     margin-bottom: $spacing-unit / 2;
 }
 
-.contact-list,
 .social-media-list {
     list-style: none;
     margin-left: 0;
@@ -112,11 +112,27 @@
     margin-right: 10px;
 }
 
+
+
 .footer-col-wrapper {
-    font-size: 15px;
-    color: $grey-color;
-    margin-left: -$spacing-unit / 2;
     @extend %clearfix;
+
+    .footer-link  {
+        &,
+        &:visited {
+            color: $grey-color-dark;
+        }
+    }
+
+    .footer-col-left {
+        float: left;
+        max-width: 115px;
+    }
+
+    .footer-col-right {
+        float: right;
+        max-width: 115px;
+    }
 }
 
 .footer-col {

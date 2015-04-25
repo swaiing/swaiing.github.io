@@ -2,12 +2,17 @@
 
     <div class="wrapper">
         <div class="footer-col-wrapper">
-            <ul class="social-media-list">
-                <li><a href="mailto:{{ site.email }}">Email</a> | </li> 
-                <li><a href="https://twitter.com/{{ site.twitter_username }}">Twitter</a> | </li>
-                <li><a href="https://linkedin.com/in/{{ site.linkedin_url }}">LinkedIn</a> | </li>
-                <li><a href="https://github.com/{{ site.github_username }}">GitHub</a></li>
-            </ul>
+            <div class="footer-col-left">
+                <a class="footer-link" href="http://stephenwai.com">stephenwai.com</a>
+            </div>
+            <div class="footer-col-right">
+                <ul class="social-media-list">
+                    <li><a class="footer-link" href="mailto:{{ site.email }}" target="_blank"><i class="fa fa-inbox fa-lg"></i></a></li> 
+                    <li><a class="footer-link" href="https://twitter.com/{{ site.twitter_username }}" target="_blank"><i class="fa fa-twitter fa-lg"></i></a></li>
+                    <li><a class="footer-link" href="https://linkedin.com/in/{{ site.linkedin_url }}" target="_blank"><i class="fa fa-linkedin fa-lg"></i></a></li>
+                    <li><a class="footer-link" href="https://github.com/{{ site.github_username }}" target="_blank"><i class="fa fa-github fa-lg"></i></a></li>
+                </ul>
+            </div>
         </div>
     </div>
 
