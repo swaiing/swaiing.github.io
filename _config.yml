@@ -7,6 +7,7 @@ url: "http://stephenwai.com" # the base hostname & protocol for your site
 twitter_username: swaiing
 github_username:  swaiing
 linkedin_url:  stephenwai
+google_analytics_id:  UA-22934935-2
 
 # Build settings
 markdown: kramdown
