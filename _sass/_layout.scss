@@ -44,8 +44,8 @@
 
     @include media-query($on-palm) {
         position: absolute;
-        top: 9px;
-        right: 30px;
+        top: 10px;
+        right: 10px;
         background-color: $background-color;
         border: 1px solid $grey-color-light;
         border-radius: 5px;
@@ -190,9 +190,14 @@
 }
 
 .post-link {
-    font-size: 18px;
+    font-size: $base-font-size;
 }
 
+@include media-query($on-palm) {
+    .post-link {
+        font-size: $small-font-size;
+    }
+}
 
 
 /**
@@ -203,12 +208,11 @@
 }
 
 .post-title {
-    font-size: 24px;
+    font-size: $large-font-size;
     letter-spacing: -1px;
     line-height: 1;
 
-    @include media-query($on-laptop) {
-        font-size: 36px;
+    @include media-query($on-palm) {
     }
 }
 
@@ -253,7 +257,6 @@
         p {
             margin: 0;
         }
-
     }
 
     .left {
@@ -270,5 +273,20 @@
         -moz-box-sizing: border-box;
         box-sizing: border-box;
     }
+}
 
+@include media-query($on-palm) {
+    .projects {
+        
+        .left {
+            width: ($content-width/2) - ($spacing-unit + 10);
+            border: 1px solid $grey-color-light;
+            margin: 0 auto $spacing-unit/2 auto;
+        }
+
+        .right {
+            width: ($content-width/2) - ($spacing-unit + 10);
+            margin: 0 auto;
+        }
+    }
 }
