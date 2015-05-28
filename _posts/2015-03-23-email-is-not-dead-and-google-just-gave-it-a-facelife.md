@@ -8,7 +8,7 @@ tags:
 hero: inbox_bg.jpg
 ---
 
-*This post was [originally published on Medium](https://medium.com/apt-504d/email-is-not-dead-and-google-just-gave-it-a-facelift-8dd0bb8bcee9).*
+[[This post was originally published on Medium](https://medium.com/apt-504d/email-is-not-dead-and-google-just-gave-it-a-facelift-8dd0bb8bcee9)]
 
 *Though Inbox by Gmail confronts our two most pressing problems with email, there is still room for improvement.*
 
