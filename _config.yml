@@ -3,7 +3,7 @@ title: Stephen Wai
 email: yo@stephenwai.com
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://stephenwai.com" # the base hostname & protocol for your site
+url: "https://stephenwai.com" # the base hostname & protocol for your site
 twitter_username: swaiing
 github_username:  swaiing
 linkedin_url:  stephenwai
