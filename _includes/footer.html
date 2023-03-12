@@ -15,5 +15,14 @@
             </div>
         </div>
     </div>
-
+    <script>
+        var heroImages = new Array();
+        heroImages[0] = "background-image:url(/images/bg1.jpg)";
+        heroImages[1] = "background-image:url(/images/bg2.jpg)";
+        heroImages[2] = "background-image:url(/images/bg3.jpg)";
+        heroImages[2] = "background-image:url(/images/bg4.jpg)";
+        var heroImg = document.getElementById('herobg');
+        var randomImg = Math.floor(Math.random()*heroImages.length);
+        heroImg.style = heroImages[randomImg];
+      </script>
 </footer>
