@@ -99,7 +99,7 @@
 
 .footer-heading {
     font-size: 18px;
-    margin-bottom: calc($spacing-unit / 2);
+    margin-bottom: $spacing-unit / 2;
 }
 
 .social-media-list {
@@ -179,7 +179,7 @@
     list-style: none;
 
     > li {
-        margin-bottom: calc($spacing-unit / 2);
+        margin-bottom: $spacing-unit / 2;
     }
 }
 
@@ -260,13 +260,13 @@
     }
 
     .left {
-        width: (calc($content-width/2)) - ($spacing-unit + 10);
+        width: ($content-width/2) - ($spacing-unit + 10);
         float: left;
         border: 1px solid $grey-color-light;
     }
 
     .right {
-        width: (calc($content-width/2)) - ($spacing-unit + 10);
+        width: ($content-width/2) - ($spacing-unit + 10);
         float: left;
         margin-left: 15px;
         -webkit-box-sizing: border-box;
@@ -279,13 +279,13 @@
     .projects {
 
         .left {
-            width: (calc($content-width/2)) - ($spacing-unit + 10);
+            width: ($content-width/2) - ($spacing-unit + 10);
             border: 1px solid $grey-color-light;
-            margin: 0 auto calc($spacing-unit/2) auto;
+            margin: 0 auto $spacing-unit/2 auto;
         }
 
         .right {
-            width: (calc($content-width/2)) - ($spacing-unit + 10);
+            width: ($content-width/2) - ($spacing-unit + 10);
             margin: 0 auto;
         }
     }
