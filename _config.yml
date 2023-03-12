@@ -11,3 +11,6 @@ google_analytics_id:  UA-22934935-2
 
 # Build settings
 markdown: kramdown
+
+plugins:
+  - jemoji
